@@ -1,2 +1,2 @@
 # yasschat-landing-page
-![YassChat](index.html)
+![yasschat-landing-page](index.html)
